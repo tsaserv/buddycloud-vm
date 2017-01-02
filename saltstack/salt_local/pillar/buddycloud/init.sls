@@ -18,6 +18,12 @@ buddycloud:
     media-jid-password: mediaserver-test
     hosting-admin-username: hosting-admin-username           #appended to domain
     hosting-admin-password: hosting-admin-password
+    # JDS Pending fixes
+    # buddycloud:lookup:channels.autosubscribe
+    # notifications.connected
+    #channels.autosubscribe: FOO
+    #notifications.connected: BAR
+    
     # Pusher
     gcm.google_project_id: 732635300110
     gcm.api_key: ZIza1yA2rA9d4YfutCR1224UleLZhb_tGbV1wzVw
