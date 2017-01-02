@@ -6,7 +6,7 @@ buddycloud:
     web-listen-port: 443                                     # where to listen
     use_tls: false # enable TLS on web-listen-port  
     database-server: 127.0.0.1                               
-    send-address: noreply@example.com
+    send-address: foobar_noreply@example.com
     smtp-server: smtp.example.com
     # DNS
     server-ip: 127.0.0.1
