@@ -1,6 +1,8 @@
 # Buddycloud-VM
 
-This Vagrant-based virtual machine can be run locally as a complete buddycloud stack including the following components:
+Updated for TSASERV git repo - JDS 2017
+
+ARSE This Vagrant-based virtual machine can be run locally as a complete buddycloud stack including the following components:
 - xmpp server (Prosody and Tigase are included)
 - buddycloud-server-java
 - buddycloud-http-api
