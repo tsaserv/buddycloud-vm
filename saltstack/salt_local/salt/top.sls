@@ -13,9 +13,9 @@ base:
     - postgres
     - nginx
     - prosody
-    - buddycloud-server-java
-    - buddycloud-http-api
-    - buddycloud-media-server
-    - buddycloud-pusher
-    - buddycloud-angular-app
-    - buddycloud-webclient
+    #- buddycloud-server-java
+    #- buddycloud-http-api
+    #- buddycloud-media-server
+    #- buddycloud-pusher
+    #- buddycloud-angular-app
+    #- buddycloud-webclient
